@@ -1,0 +1,23 @@
+{
+  "name": "jslearntinkoff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftn221/jslearntinkoff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftn221/jslearntinkoff/issues"
+  },
+  "homepage": "https://github.com/ftn221/jslearntinkoff#readme",
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
