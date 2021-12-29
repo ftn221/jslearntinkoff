@@ -7,6 +7,8 @@
 // Установка fs локально
 // npm install -g fs
 
-// Установка fs-extra локально
+// Установка fs-extra локально в папку проекта
 // npm install fs-extra --save-dev
+
+
 
