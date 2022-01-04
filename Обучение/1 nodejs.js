@@ -9,6 +9,3 @@
 
 // Установка fs-extra локально в папку проекта
 // npm install fs-extra --save-dev
-
-
-
